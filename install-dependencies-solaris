@@ -3,3 +3,6 @@
 echo "Installing Solaris dependencies"
 
 sudo pkg install build-essentials
+
+echo "Done..."
+exit 0
