@@ -1,2 +1,5 @@
 #/bin/sh
+
+echo "Installing Solaris dependencies"
+
 sudo pkg install build-essentials
