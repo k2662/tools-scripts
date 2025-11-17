@@ -1,1 +1,2 @@
 #/bin/sh
+sudo pkg install build-essentials
